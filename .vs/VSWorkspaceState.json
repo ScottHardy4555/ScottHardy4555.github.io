@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs"
+    "\\bootstrap",
+    "\\bootstrap\\assets",
+    "\\bootstrap\\assets\\css",
+    "\\bootstrap\\assets\\css\\images",
+    "\\images"
   ],
-  "SelectedNode": "\\docs\\resume.pdf",
+  "SelectedNode": "\\portfolio.html",
   "PreviewInSolutionExplorer": false
 }
